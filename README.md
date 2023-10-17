@@ -1,2 +1,2 @@
 # LearnCCNA
-# Day la mot so bai tap ve ve va cau hinh mang may tinh
+# By Hoang Xuan Nhat - 21NS - aka Kate
